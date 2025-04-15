@@ -8,16 +8,16 @@ body {
 }
 
 button.btn {
-  position: absolute;
+  position: fixed;
   right: 20px;
   bottom: 20px;
 }
 
 button.btn2 {
   display: none;
-  position: absolute;
-  right: 5px;
-  bottom: 5px;
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
 }
 
 @media screen and (max-width: 768px) {
